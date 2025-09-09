@@ -1,10 +1,4 @@
-I'll create a comprehensive README.md file for your Minecraft-inspired game that's portable via pygbag. Let me structure this properly with all the necessary information.
 
- 
-
- I need to create a README.md file based on the information provided. I'll structure it with all the necessary sections: title, description, features, installation, usage, and deployment. Since I can't use the TTS tool due to connection issues, I'll focus on creating the markdown content directly.
-
- 
 # Mob Hunters
 
 A Minecraft-inspired game built with Python and portable to web using pygbag.
