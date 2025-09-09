@@ -5,7 +5,7 @@ A Minecraft-inspired game built with Python and portable to web using pygbag.
 
 ## Description
 
-Mob Hunters is a Minecraft-inspired game that captures the essence of exploration, building, and combat in a simplified yet engaging format. The game is designed to be easily portable to web platforms using the pygbag framework, allowing players to enjoy it directly in their browsers without requiring local installation.
+Mob Hunters is a Minecraft-inspired game that captures the essence of exploration, and combat in a simplified yet engaging format. The game is designed to be easily portable to web platforms using the pygbag framework, allowing players to enjoy it directly in their browsers without requiring local installation.
 
 ## Features
 
