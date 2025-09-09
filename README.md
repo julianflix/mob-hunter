@@ -10,11 +10,7 @@ Mob Hunters is a Minecraft-inspired game that captures the essence of exploratio
 ## Features
 
 - Minecraft-style gameplay mechanics
-- Cross-platform compatibility (desktop and web)
-- Simple building and mining mechanics
-- Enemy AI and combat systems
 - Portable to web using pygbag
-- Lightweight and efficient design
 
 ## Getting Started
 
